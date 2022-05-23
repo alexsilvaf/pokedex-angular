@@ -1,5 +1,5 @@
 export class PokemonModel {
-  height= "";
-  id= "";
-  name= "";
+  height = "";
+  id = "";
+  name = "";
 }
